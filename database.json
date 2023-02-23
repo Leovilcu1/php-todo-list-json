@@ -1,0 +1,26 @@
+[
+        {
+                "taskName" : "HTML",
+                "done" : true
+        },
+        {
+                "taskName" : "CSS",
+                "done" : true
+        },
+        {
+                "taskName" : "RESPONSIVE DESIGN",
+                "done" : true
+        },
+        {
+                "taskName" : "JAVASCRIPT",
+                "done" : true
+        },
+        {
+                "taskName" : "PHP",
+                "done" : true
+        },
+        {
+                "taskName" : "LARAVEL",
+                "done" : false
+        }
+]
