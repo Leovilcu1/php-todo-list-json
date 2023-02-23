@@ -8,8 +8,10 @@ createApp({
                 };
         },
         methods:{
-
-        },
+                line(todo){
+                        todo.done = !todo.done
+                }
+        }, 
         created(){
                 axios
                 .get('./api.php')
